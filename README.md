@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Saya adalah mahasiswi S1 Informatika di Telkom University yang sangat antusias dengan **problem-solving** dan **logika pemrograman**.
+Saya adalah mahasiswi S1 Informatika di Telkom University yang sangat antusias dengan **problem solving** dan **logika pemrograman**.
 
 Saat ini, saya sedang mengarahkan *passion* saya untuk menjadi seorang **2D Game Developer**.
 
@@ -18,7 +18,7 @@ Saat ini, saya sedang mengarahkan *passion* saya untuk menjadi seorang **2D Game
 
 ### 🎯 My Goals for This Semester:
 
-* Menyelesaikan semua tugas Alpro saya (dan menaruhnya di sini!).
+* Menyelesaikan semua tugas Algoritma & Pemrograman saya dan menaruhnya di sini.
 * Membangun satu game 2D sederhana (seperti *platformer* atau *puzzle*) dengan Unity.
 
 ### 📫 How to Reach Me:
